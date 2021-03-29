@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/EuroGeoQuiz/static/css/main.5a55283e.chunk.css",
+    "main.js": "/EuroGeoQuiz/static/js/main.47f4596b.chunk.js",
+    "main.js.map": "/EuroGeoQuiz/static/js/main.47f4596b.chunk.js.map",
+    "runtime-main.js": "/EuroGeoQuiz/static/js/runtime-main.6db36370.js",
+    "runtime-main.js.map": "/EuroGeoQuiz/static/js/runtime-main.6db36370.js.map",
+    "static/js/2.1dd62d42.chunk.js": "/EuroGeoQuiz/static/js/2.1dd62d42.chunk.js",
+    "static/js/2.1dd62d42.chunk.js.map": "/EuroGeoQuiz/static/js/2.1dd62d42.chunk.js.map",
+    "index.html": "/EuroGeoQuiz/index.html",
+    "static/css/main.5a55283e.chunk.css.map": "/EuroGeoQuiz/static/css/main.5a55283e.chunk.css.map",
+    "static/js/2.1dd62d42.chunk.js.LICENSE.txt": "/EuroGeoQuiz/static/js/2.1dd62d42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6db36370.js",
+    "static/js/2.1dd62d42.chunk.js",
+    "static/css/main.5a55283e.chunk.css",
+    "static/js/main.47f4596b.chunk.js"
+  ]
+}
